@@ -26,7 +26,7 @@
     "@vueuse/core": "11.3.0",
     "animate.css": "4.1.1",
     "await-to-js": "3.0.0",
-    "axios": "1.7.8",
+    "axios": "1.8.2",
     "crypto-js": "4.2.0",
     "diagram-js": "12.3.0",
     "didi": "9.0.2",
