@@ -26,7 +26,7 @@
     "@vueuse/core": "12.7.0",
     "animate.css": "4.1.1",
     "await-to-js": "3.0.0",
-    "axios": "1.7.8",
+    "axios": "1.8.2",
     "crypto-js": "4.2.0",
     "echarts": "5.5.0",
     "element-plus": "2.8.8",
