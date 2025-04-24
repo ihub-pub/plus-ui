@@ -13,3 +13,5 @@ updates:
       - "ihub-bot"
     allow:
       - dependency-type: "production"
+    commit-message:
+      prefix: "build(deps)"
